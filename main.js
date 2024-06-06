@@ -1,5 +1,5 @@
 // Initialize the map
-var map = L.map('map').setView([3.896, 11.521], 10);
+var map = L.map('map').setView([3.896, 11.521], 12);
 
 // Add a basemap (e.g., OpenStreetMap)
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
