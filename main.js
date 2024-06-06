@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load your shapefile data (replace with your own GeoJSON URL)
-var shapefileUrl = 'path/to/your/shapefile.geojson';
+var shapefileUrl = 'C:\Users\DELL\Documents\GIS DATA LAKE\CMR_adm';
 
 // Fetch the GeoJSON data
 fetch(shapefileUrl)
